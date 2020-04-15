@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuicerApp", "JuicerApp\JuicerApp.csproj", "{709BBEC6-D434-4ABF-BA59-AA4AC2BFCA42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuicerLib", "JuicerLib\JuicerLib.csproj", "{C1501B2A-1773-478D-9B93-088C0024E196}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuicerTest", "JuicerTest\JuicerTest.csproj", "{EF779481-52EB-4AE8-9270-7FD6F8D1D57E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{709BBEC6-D434-4ABF-BA59-AA4AC2BFCA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709BBEC6-D434-4ABF-BA59-AA4AC2BFCA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709BBEC6-D434-4ABF-BA59-AA4AC2BFCA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709BBEC6-D434-4ABF-BA59-AA4AC2BFCA42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1501B2A-1773-478D-9B93-088C0024E196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1501B2A-1773-478D-9B93-088C0024E196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1501B2A-1773-478D-9B93-088C0024E196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1501B2A-1773-478D-9B93-088C0024E196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF779481-52EB-4AE8-9270-7FD6F8D1D57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF779481-52EB-4AE8-9270-7FD6F8D1D57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF779481-52EB-4AE8-9270-7FD6F8D1D57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF779481-52EB-4AE8-9270-7FD6F8D1D57E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
